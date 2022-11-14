@@ -1,0 +1,22 @@
+@use '../variables.scss';
+
+.aside{
+    background-color: variables.$color-black;
+    width: 250px;
+    height: 380px;
+    padding: 12px 20px;
+    border-radius: 2%;
+    vertical-align: top;
+    color: blue;
+    margin: 0px 30px 0px 70px ;
+    position: relative;
+
+    &_article{
+        background-color: white;
+        width: 190px;
+        height: 25px;
+        margin: 30px 10px;
+        border-radius: 8px;        
+    }
+
+}

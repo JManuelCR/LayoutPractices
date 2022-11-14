@@ -1,0 +1,13 @@
+//home
+@use './home/aside';
+@use './home/footer';
+@use './home/header';
+@use './home/cardsSection';
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
