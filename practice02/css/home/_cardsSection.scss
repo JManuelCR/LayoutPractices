@@ -1,0 +1,201 @@
+@use '../variables.scss';
+
+.section{
+    &_article1{
+        background-color: variables.$color-yellow;
+        width: 380px;
+        height: 155px;
+        position: absolute;
+        margin: -378px 20px 45px 410px;
+        padding: 25px;
+        border-radius: 8px;
+    }
+
+    &_title{
+        width: 110px;
+        height: 14px;
+        background-color: white;
+        margin-bottom: 18px;
+        border-radius: 5%;
+    }
+
+    &_paragraph{
+        &--article{
+            background-color: white;
+            width: 280px;
+            height: 10px;
+            margin-top: 15px;
+            border-radius: 5%;
+
+        }
+    }
+
+    &_links{
+        position: relative;
+        margin-top: 30px;
+        margin-left: 210px;
+
+        &--link1-1{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-top: -5px;
+        }
+
+        &--link1-2{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 45px;
+            position: absolute;
+            margin-top: -20px;
+        }
+
+        &--link1-3{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 90px;
+            position: absolute;
+            margin-top: -20px;
+        }
+    }
+
+    &_article2{
+        background-color: variables.$color-orange;
+        width: 380px;
+        height: 155px;
+        position: absolute;
+        margin: -378px 20px 45px 865px;
+        padding: 25px;
+        border-radius: 8px;
+    }
+
+    &_links2{
+        position: relative;
+        margin-top: 30px;
+        margin-left: 210px;
+
+        &--link2-1{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-top: -5px;
+        }
+
+        &--link2-2{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 45px;
+            position: absolute;
+            margin-top: -20px;
+        }
+
+        &--link2-3{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 90px;
+            position: absolute;
+            margin-top: -20px;
+        }
+    }
+
+
+
+    &_article3{
+        background-color: variables.$color-red;
+        width: 380px;
+        height: 155px;
+        position: absolute;
+        margin: -155px 20px 30px 410px;
+        padding: 25px;
+        border-radius: 8px;
+    }
+
+    &_links3{
+        position: relative;
+        margin-top: 30px;
+        margin-left: 210px;
+
+        &--link3-1{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-top: -5px;
+        }
+
+        &--link3-2{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 45px;
+            position: absolute;
+            margin-top: -20px;
+        }
+
+        &--link3-3{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 90px;
+            position: absolute;
+            margin-top: -20px;
+        }
+    }
+
+
+    &_article4{
+        background-color: variables.$color-purple;
+        width: 380px;
+        height: 155px;
+        position: absolute;
+        margin: -155px 20px 30px 865px;
+        padding: 25px;
+        border-radius: 8px;
+    }
+
+    &_links4{
+        position: relative;
+        margin-top: 30px;
+        margin-left: 210px;
+
+        &--link4-1{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-top: -5px;
+        }
+
+        &--link4-2{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 45px;
+            position: absolute;
+            margin-top: -20px;
+        }
+
+        &--link4-3{
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background-color: white;
+            margin-left: 90px;
+            position: absolute;
+            margin-top: -20px;
+        }
+    }
+}
