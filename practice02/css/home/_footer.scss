@@ -1,0 +1,57 @@
+@use '../variables';
+
+.footer{
+    background-color: variables.$color-greenPrimary;    
+    border: solid variables.$color-greenSecondary ;
+    margin-top: 30px;
+    height: 124px;
+    padding: 20px 20px;
+
+
+    &_logo{
+        background-color: variables.$color-greenSecondary;
+        width: 85px;
+        height: 85px;
+        border-radius: 50%;
+
+        
+    }
+
+    &_paragraph{
+       background-color: variables.$color-greenSecondary;            
+       position: relative;
+       margin: -50px auto;
+       width: 250px;
+       height: 20px;
+    }
+
+    &_links{
+        position: relative;
+        margin-top: 20px;
+        margin-left: 1150px;
+       
+
+        &--link1{
+            background-color: variables.$color-greenSecondary;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+        }
+
+        &--link2{
+            background-color: variables.$color-greenSecondary;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin: -40px 80px;
+        }
+
+        &--link3{
+            background-color: variables.$color-greenSecondary;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin: -40px 160px;
+        }
+    }
+}
