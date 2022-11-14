@@ -3,10 +3,10 @@
 .section{
     &_article1{
         background-color: variables.$color-yellow;
-        width: 380px;
-        height: 155px;
+        width: 400px;
+        height: 180px;
         position: absolute;
-        margin: -378px 20px 45px 410px;
+        margin: -440px 20px 45px 430px;
         padding: 25px;
         border-radius: 8px;
     }
@@ -32,79 +32,79 @@
 
     &_links{
         position: relative;
-        margin-top: 30px;
-        margin-left: 210px;
+        margin-top: 40px;
+        margin-left: 215px;
 
         &--link1-1{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-top: -5px;
         }
 
         &--link1-2{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 45px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
 
         &--link1-3{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 90px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
     }
 
     &_article2{
         background-color: variables.$color-orange;
-        width: 380px;
-        height: 155px;
+        width: 400px;
+        height: 180px;
         position: absolute;
-        margin: -378px 20px 45px 865px;
+        margin: -440px 20px 45px 930px;
         padding: 25px;
         border-radius: 8px;
     }
 
     &_links2{
         position: relative;
-        margin-top: 30px;
-        margin-left: 210px;
+        margin-top: 40px;
+        margin-left: 215px;
 
         &--link2-1{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-top: -5px;
         }
 
         &--link2-2{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 45px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
 
         &--link2-3{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 90px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
     }
 
@@ -112,90 +112,90 @@
 
     &_article3{
         background-color: variables.$color-red;
-        width: 380px;
-        height: 155px;
+        width: 400px;
+        height: 180px;
         position: absolute;
-        margin: -155px 20px 30px 410px;
+        margin: -182px 20px 30px 440px;
         padding: 25px;
         border-radius: 8px;
     }
 
     &_links3{
         position: relative;
-        margin-top: 30px;
-        margin-left: 210px;
+        margin-top: 40px;
+        margin-left: 215px;
 
         &--link3-1{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-top: -5px;
         }
 
         &--link3-2{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 45px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
 
         &--link3-3{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 90px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
     }
 
 
     &_article4{
         background-color: variables.$color-purple;
-        width: 380px;
-        height: 155px;
+        width: 400px;
+        height: 180px;
         position: absolute;
-        margin: -155px 20px 30px 865px;
+        margin: -182px 20px 30px 930px;
         padding: 25px;
         border-radius: 8px;
     }
 
     &_links4{
         position: relative;
-        margin-top: 30px;
-        margin-left: 210px;
+        margin-top: 40px;
+        margin-left: 215px;
 
         &--link4-1{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-top: -5px;
         }
 
         &--link4-2{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 45px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
 
         &--link4-3{
-            width: 20px;
-            height: 20px;
+            width: 30px;
+            height: 30px;
             border-radius: 50%;
             background-color: white;
             margin-left: 90px;
             position: absolute;
-            margin-top: -20px;
+            margin-top: -30px;
         }
     }
 }
